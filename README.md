@@ -50,7 +50,5 @@ Let's connect on different platforms:
 ## Top Repositories
 Check out some of my noteworthy repositories:
 
-[![JAVA-COURSE Repository](https://github-readme-stats.vercel.app/api/pin/?username=HARD1Kk&repo=JAVA-COURSE&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en)](https://github.com/HARD1Kk/JAVA-COURSE)
-[![JAVA-PRACTICE-PROGRAMS Repository](https://github-readme-stats.vercel.app/api/pin/?username=HARD1Kk&repo=JAVA-PRACTICE-PROGRAMS&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en)](https://github.com/HARD1Kk/JAVA-PRACTICE-PROGRAMS)
-[![C-plus-plus-COURSE Repository](https://github-readme-stats.vercel.app/api/pin/?username=HARD1Kk&repo=C-plus-plus-COURSE&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en)](https://github.com/HARD1Kk/C-plus-plus-COURSE)
+
 
