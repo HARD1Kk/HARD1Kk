@@ -5,7 +5,7 @@ I'm Hardik, a coding enthusiast from India. My passions revolve around C/C++, Pr
 
 - 🌍 Location: India
 - ✉️ Email:           [hardik21673@gmail.com](mailto:hardik21673@gmail.com)
-- 🚀 GitHub:          [xHARDIKx](http://www.github.com/xHARDIKx)
+- 🚀 GitHub:          [HARD1Kk](http://www.github.com/HARD1Kk)
 - 👽 Connect with me: [hardiko.o](https://linktr.ee/hardiko.o)
 - ⚡ Fun fact: gym freak and a big fan of anime 💪🏋️
 
@@ -27,30 +27,30 @@ I'm Hardik, a coding enthusiast from India. My passions revolve around C/C++, Pr
 ## Socials
 Let's connect on different platforms:
 
-- GitHub:      [@xHARDIKx](https://www.github.com/xHARDIKx)
+- GitHub:      [@HARD1Kk](https://www.github.com/HARD1Kk)
 - Instagram:   [@thehardik_official](http://www.instagram.com/thehardik_official)
 - LinkedIn:    [hardik-4701a0148](https://www.linkedin.com/in/hardik-4701a0148)
 
-- [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />](https://www.github.com/xHARDIKx)
+- [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />](https://www.github.com/HARD1Kk)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />](http://www.instagram.com/thehardik_official)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />](https://www.linkedin.com/in/hardik-4701a0148)
 
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xHARDIKx&show_icons=true&count_private=true&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARD1Kk&show_icons=true&count_private=true&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xHARDIKx&stroke=ffffff&background=0a0c10&ring=1f8ecd&fire=1f8ecd&currStreakNum=ffffff&currStreakLabel=1f8ecd&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HARD1Kk&stroke=ffffff&background=0a0c10&ring=1f8ecd&fire=1f8ecd&currStreakNum=ffffff&currStreakLabel=1f8ecd&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xHARDIKx&langs_count=10&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en&custom_title=Top%20Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARD1Kk&langs_count=10&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en&custom_title=Top%20Languages)
 
 ## Top Repositories
 Check out some of my noteworthy repositories:
 
-[![JAVA-COURSE Repository](https://github-readme-stats.vercel.app/api/pin/?username=xHARDIKx&repo=JAVA-COURSE&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en)](https://github.com/xHARDIKx/JAVA-COURSE)
-[![JAVA-PRACTICE-PROGRAMS Repository](https://github-readme-stats.vercel.app/api/pin/?username=xHARDIKx&repo=JAVA-PRACTICE-PROGRAMS&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en)](https://github.com/xHARDIKx/JAVA-PRACTICE-PROGRAMS)
-[![C-plus-plus-COURSE Repository](https://github-readme-stats.vercel.app/api/pin/?username=xHARDIKx&repo=C-plus-plus-COURSE&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en)](https://github.com/xHARDIKx/C-plus-plus-COURSE)
+[![JAVA-COURSE Repository](https://github-readme-stats.vercel.app/api/pin/?username=HARD1Kk&repo=JAVA-COURSE&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en)](https://github.com/HARD1Kk/JAVA-COURSE)
+[![JAVA-PRACTICE-PROGRAMS Repository](https://github-readme-stats.vercel.app/api/pin/?username=HARD1Kk&repo=JAVA-PRACTICE-PROGRAMS&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en)](https://github.com/HARD1Kk/JAVA-PRACTICE-PROGRAMS)
+[![C-plus-plus-COURSE Repository](https://github-readme-stats.vercel.app/api/pin/?username=HARD1Kk&repo=C-plus-plus-COURSE&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en)](https://github.com/HARD1Kk/C-plus-plus-COURSE)
 
