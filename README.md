@@ -8,6 +8,7 @@ I'm Hardik Full Stack Developer, a coding enthusiast from India. My passions rev
 - 🚀 GitHub:          [HARD1Kk](http://www.github.com/HARD1Kk)
 - 👽 Connect with me: [hardiko.o](https://linktr.ee/hardiko.o)
 - ⚡ Fun fact: gym freak and a big fan of anime 💪🏋️
+- 2nd Github ID -  [xHARDIKx](http://www.github.com/xHARDIKx)
 
 ## Skills
 - C/C++
