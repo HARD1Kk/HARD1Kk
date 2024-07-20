@@ -1,7 +1,7 @@
 # Hello there, I'm Hardik! 👋
 
 ## About Me
-I'm Hardik, a coding enthusiast from India. My passions revolve around C/C++, Programming, Data Structures and Algorithms, and software development. I love diving into new technologies and contributing to exciting projects.
+I'm Hardik Full Stack Developer, a coding enthusiast from India. My passions revolve around Web Development, Programming, Data Structures and Algorithms, and software development. I love diving into new technologies and contributing to exciting projects.
 
 - 🌍 Location: India
 - ✉️ Email:           [hardik21673@gmail.com](mailto:hardik21673@gmail.com)
@@ -11,6 +11,9 @@ I'm Hardik, a coding enthusiast from India. My passions revolve around C/C++, Pr
 
 ## Skills
 - C/C++
+- Javascript
+- Node js
+- express js
 - Java
 - software Development
 - Data Structures and Algorithms
@@ -47,8 +50,7 @@ Let's connect on different platforms:
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARD1Kk&langs_count=10&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en&custom_title=Top%20Languages)
 
-## Top Repositories
-Check out some of my noteworthy repositories:
+
 
 
 
