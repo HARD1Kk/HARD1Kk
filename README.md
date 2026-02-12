@@ -42,14 +42,8 @@ Let's connect on different platforms:
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARD1Kk&show_icons=true&count_private=true&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hard1kk&theme=black-ice&hide_border=false&border_radius=12&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HARD1Kk&stroke=ffffff&background=0a0c10&ring=1f8ecd&fire=1f8ecd&currStreakNum=ffffff&currStreakLabel=1f8ecd&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-
-
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARD1Kk&langs_count=10&title_color=1f8ecd&text_color=ffffff&icon_color=1f8ecd&bg_color=0a0c10&hide_border=true&locale=en&custom_title=Top%20Languages)
 
 
 
