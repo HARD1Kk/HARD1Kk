@@ -1,7 +1,7 @@
 # Hello there, I'm Hardik! 👋
 
 ## About Me
-I'm Hardik Full Stack Developer, a coding enthusiast from India. My passions revolve around Web Development, Programming, Data Structures and Algorithms, and software development. I love diving into new technologies and contributing to exciting projects.
+I'm Backend Developer, a coding enthusiast from India. My passions revolve around Web Development, Programming, Data Structures and Algorithms, and software development. I love diving into new technologies and contributing to exciting projects.
 
 - 🌍 Location: India
 - ✉️ Email:           [hardik21673@gmail.com](mailto:hardik21673@gmail.com)
@@ -11,11 +11,11 @@ I'm Hardik Full Stack Developer, a coding enthusiast from India. My passions rev
 - 2nd Github ID -  [xHARDIKx](http://www.github.com/xHARDIKx)
 
 ## Skills
+- Python 
 - C/C++
 - Javascript
 - Node js
 - express js
-- Java
 - software Development
 - Data Structures and Algorithms
 - Problem Solving
